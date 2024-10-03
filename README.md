@@ -8,3 +8,4 @@ Nesse repositório você vai encontrar um script **BASH** que facilita a criaç�
 
 Ele realiza uma consulta API e formata os dados de forma que seja possível importar para um Excel ou enviar para algum membro da equipe.
 
+[Clique aqui para acessar!!](relatorio-data-leakege/script.sh)
